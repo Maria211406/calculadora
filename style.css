@@ -1,3 +1,6 @@
+
+
+@media scream and (min-width: 570px) {
 body {
     background-color: #13171F;
     font-size: 15px;
@@ -5,13 +8,9 @@ body {
     place-content: center;
   }
 
-@media scream and (min-width: 570px) {
-  body {
-    background-color: #13171F;
-    font-size: 15px;
-    font-family: 'Poppins';
-    place-content: center;
 }
+  
+
 
 
   
