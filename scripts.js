@@ -36,6 +36,7 @@ function potencia() {
 
 function raiz() {
   var num1 = parseFloat(document.getElementById('num1').value);
+  var num2 = parseFloat(document.getElementById('num2').value);
   var resultado = Math.sqrt(num1);
   document.getElementById('resultado').innerText = resultado;
 }
